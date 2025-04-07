@@ -28,7 +28,7 @@ let package = Package(
                 .product(name: "RealmSwift", package: "realm-cocoa"),
                 "CryptoSwift"
             ],
-            path: "Sources/WebUntis"
+            path: "Sources"
         )
     ]
 )
